@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72497009294",
+    "firebase_url": "https://mobiluygulamagelistirme-afed3.firebaseio.com",
+    "project_id": "mobiluygulamagelistirme-afed3",
+    "storage_bucket": "mobiluygulamagelistirme-afed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72497009294:android:ab376dbbc438f61b8d6fdf",
+        "android_client_info": {
+          "package_name": "com.info.mobiluygulamagelistirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72497009294-rueu4djkqqtpaut8s6ag5cm1lg6h61jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.mobiluygulamagelistirme",
+            "certificate_hash": "e55a580aa97b764def8e1061c3dadcc2df4df2b0"
+          }
+        },
+        {
+          "client_id": "72497009294-90qu513v9p5fejvh3gei5pejr98rqqs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWUzTkWTIimVQxKzeCp6znQgCaxyPZlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72497009294-90qu513v9p5fejvh3gei5pejr98rqqs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_profil"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Profil"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_ayarlar"
+        android:title="Ayarlar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_bilgi"
+        android:icon="@drawable/icon_info"
+        android:title="Item"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_grup_olustur"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="Grup Oluştur"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cikis"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="Çıkış"
+        app:showAsAction="never" />
+</menu>
